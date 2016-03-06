@@ -1,3 +1,3 @@
 # Network-Automation
 
-Scripts repositories for automating Network configuration tasks
+Scripts repositories for automating network device configuration tasks
